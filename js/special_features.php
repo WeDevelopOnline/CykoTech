@@ -1,0 +1,1 @@
+<p style="text-align:center">&copy; CykoTechnology Pvt. Ltd. || Designed by <a href="http://wedeveloponline.com" title="website designed by WeDevelopOnline.com" target="_blank" style="font-family: 'Nosifer', cursive; font-decoration:none; color:#ff6d06">WeDevelopOnline</a></p></div>
